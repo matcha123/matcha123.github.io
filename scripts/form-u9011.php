@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Home Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => '',
+	'success_redirect' => 'untitled-3.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => '1234@gmail.com',
-		'to' => '1234@gmail.com'
+		'from' => 'hnhp100km@gmail.com',
+		'to' => 'hnhp100km@gmail.com'
 	),
 	'fields' => array(
 		'custom_U9015' => array(
