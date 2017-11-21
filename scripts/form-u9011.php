@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Home Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => 'untitled-3.html',
+	'success_redirect' => 'thankyou.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
