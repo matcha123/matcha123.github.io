@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="matcha123.github.io" resolutions="1x" timestamp="1511257963674">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="matcha123.github.io" resolutions="1x" timestamp="1511258151879">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="45829851" ref="index"/>
+    <file name="master_a-master.css" crc="444709922" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3828384866" ref="index"/>
-    <file name="nomq_index.css" crc="4092641790" ref="index"/>
+    <file name="index.css" crc="496019920" ref="index"/>
+    <file name="nomq_index.css" crc="3797289408" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,7 +23,7 @@
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="doi-che-crop-u94.jpg" crc="4199041947" ref="index"/>
+    <file name="doi-che-u94.png" crc="3981318743" ref="index"/>
     <file name="u232-4.png" crc="124650293" ref="index"/>
     <file name="ingredient-matcha.jpg" crc="82367224" seo="true" ref="index"/>
     <file name="u4604-7.png" crc="3862343196" ref="index"/>
@@ -73,7 +73,7 @@
     <file name="u7442-9.png" crc="305448035" ref="index"/>
     <file name="u7451-9.png" crc="3830694004" ref="index"/>
     <file name="23730643_2035866603313358_927114838_o.jpg" crc="4041477426" seo="true" ref="index"/>
-    <file name="doi-che-crop-u942.jpg" crc="504404100" ref="index"/>
+    <file name="doi-che-u942.png" crc="3761193869" ref="index"/>
     <file name="u232-42.png" crc="3965743396" ref="index"/>
     <file name="u93882.png" crc="3949198641" ref="index"/>
     <file name="u9388-r2.png" crc="4265197068" ref="index"/>
@@ -116,7 +116,7 @@
     <file name="u7451-92.png" crc="411625290" ref="index"/>
     <file name="ingredient-matcha-crop-u1692.jpg" crc="4264459715" ref="index"/>
     <file name="u4604-73.png" crc="444169116" ref="index"/>
-    <file name="doi-che-crop-u943.jpg" crc="4199041947" ref="index"/>
+    <file name="doi-che-u943.png" crc="3981318743" ref="index"/>
     <file name="matcha216x140.jpg" crc="274262987" seo="true" ref="index"/>
     <file name="u514-173.png" crc="490944432" ref="index"/>
     <file name="u4720-43.png" crc="3967055083" ref="index"/>
@@ -156,7 +156,7 @@
     <file name="23772275_2036611823238836_1446905171_n-crop-u73293.jpg" crc="4135558018" ref="index"/>
     <file name="u7442-93.png" crc="289026416" ref="index"/>
     <file name="u7451-93.png" crc="4137051082" ref="index"/>
-    <file name="23730643_2035866603313358_927114838_o-crop-u1750.jpg" crc="27405804" ref="index"/>
+    <file name="23730643_2035866603313358_927114838_o-crop-u1750.jpg" crc="358487437" ref="index"/>
   </folder>
-  <file name="index.html" crc="4078569415" seo="true" mt="1511257889670" redirect="true"/>
+  <file name="index.html" crc="4075887275" seo="true" mt="1511258115596" redirect="true"/>
 </manifest>
